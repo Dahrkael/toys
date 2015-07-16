@@ -1,0 +1,41 @@
+html, body { 
+	width: 98%;
+	height: 98%;
+	background-color: black; 
+	background-image: url('background.jpg');
+}
+
+#main {
+	width: 50%;
+	/* width: 960px; */ 
+	/* height: 100%; */
+	margin: auto;  
+	margin-top: 15%;
+	border-radius: 15px;
+	padding: 10px;
+	background-color: rgba(255,255,255, 0.5);
+	overflow: hidden;
+}
+
+#title {
+		border: 1px solid grey;
+		margin: auto;
+		margin-bottom: 2%;
+		width: 50%;
+		padding: 10px;
+		border-radius: 15px;
+		background-color: rgb(245, 245, 245);
+		font-size: 300%;
+		font-weight: bold;
+		text-align: center;
+}
+
+#panel {
+		margin: auto;
+		width: 50%;
+		border: 1px solid grey;
+		padding: 20px;
+		border-radius: 15px;
+		background-color: rgb(245, 245, 245);
+		text-align: center;
+}

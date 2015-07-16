@@ -1,0 +1,116 @@
+html, body { 
+	width: 98%;
+	height: 98%;
+	background-color: black; 
+	background-image: url('profile-background.png');
+}
+
+#main {
+	width: 960px; 
+	/* height: 100%; */
+	margin: auto;  
+	border-radius: 15px;
+	padding: 10px;
+	background-color: rgba(255,255,255, 0.5);
+	overflow: hidden;
+}
+
+#toolbar {
+	margin: 10px;
+}
+
+#menu { 	
+	border: 1px solid grey;
+	float: left;
+	width: 320px; 
+	padding: 10px;
+	border-radius: 15px;
+	background-color: rgb(245, 245, 245);
+}
+
+#TL {	
+	border: 1px solid grey; 
+	float:right;
+	width: 600px;
+	border-radius: 15px;
+	background-color: rgb(245, 245, 245);
+}
+
+#TL-header { 	
+	font-size: 150%; 
+	margin: 10px; 
+	font-weight: bold; 
+}
+
+#menu-avatar { 	
+	position: absolute; 
+	width: 80px;
+	height: 80px;
+}
+
+#menu-user { 	
+	font-size: 120%; 
+	margin-left: 90px;
+}
+
+#menu-user-id {	
+	display: none;
+}
+
+#menu-info { 	
+	padding-bottom: 20px;
+	margin-left: 90px
+} 
+
+.menu-info-tile { 	
+	display: inline-block;
+	font-size: 80%;
+	margin: 5px;
+}
+
+.menu-info-tile-text { 
+	font-size: 200%;
+}
+
+#menu-controls { 	
+	padding-top: 10px;
+	border-top: 1px solid grey;
+}
+
+#tweetext {
+	width: 90%;
+}
+
+.tweet { 	
+	border-top: 1px solid grey; 
+	padding: 10px;
+	margin: 5px;
+}
+
+.tweet-avatar { 	
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	/* float: left; */
+}
+
+.tweet-body {  
+	margin-left: 60px; 
+}
+.tweet-author {  
+}
+.tweet-author-name { 
+	font-size: 110%; 
+	font-weight: bold; 
+}
+.tweet-author-user { 
+	margin-left: 0.5em;
+	font-size: 90%; 
+	color: grey; 
+}
+.tweet-time { 
+	float: right; 
+	color: grey; 
+}
+.tweet-text {
+}
