@@ -1,0 +1,20 @@
+1. Convert it to PNG using GimConv
+Code:
+gimconv "s_ui_mp_01.gim" -o "s_ui_mp_01.png"
+
+
+2. Convert the new 8bit+Alpha PNG to 32bit PNG using pngout.
+Code:
+pngout "s_ui_mp_01.png" "s_ui_mp_01(32bit).png" /c6 /force
+
+
+3. Edit s_ui_mp_01(32bit).png with whatever graphic program you want (I use Gimp).
+
+4. Convert s_ui_mp_01(32bit).png to 8bit+Alpha PNG using pngnq
+Code:
+pngnq -s 1 -n 256 "s_ui_mp_01(32bit).png"
+
+
+5. Use GimConv to convert s_ui_mp_01(32bit)-nq8.png into a GIM
+Code:
+gimconv "s_ui_mp_01(32bit)-nq8.png" --format_style psp --format_endian little --pixel_order faster --image_format index8

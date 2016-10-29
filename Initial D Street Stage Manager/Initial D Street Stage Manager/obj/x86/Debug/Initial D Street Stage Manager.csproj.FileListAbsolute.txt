@@ -1,0 +1,15 @@
+C:\Documents and Settings\Santiago\mis documentos\visual studio 2010\Projects\Initial D Street Stage Manager\Initial D Street Stage Manager\bin\Debug\Initial D Street Stage Manager.exe
+C:\Documents and Settings\Santiago\mis documentos\visual studio 2010\Projects\Initial D Street Stage Manager\Initial D Street Stage Manager\bin\Debug\Initial D Street Stage Manager.pdb
+C:\Documents and Settings\Santiago\mis documentos\visual studio 2010\Projects\Initial D Street Stage Manager\Initial D Street Stage Manager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Santiago\mis documentos\visual studio 2010\Projects\Initial D Street Stage Manager\Initial D Street Stage Manager\obj\x86\Debug\Initial_D_Street_Stage_Manager.Form1.resources
+C:\Documents and Settings\Santiago\mis documentos\visual studio 2010\Projects\Initial D Street Stage Manager\Initial D Street Stage Manager\obj\x86\Debug\Initial_D_Street_Stage_Manager.Properties.Resources.resources
+C:\Documents and Settings\Santiago\mis documentos\visual studio 2010\Projects\Initial D Street Stage Manager\Initial D Street Stage Manager\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Santiago\mis documentos\visual studio 2010\Projects\Initial D Street Stage Manager\Initial D Street Stage Manager\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Santiago\mis documentos\visual studio 2010\Projects\Initial D Street Stage Manager\Initial D Street Stage Manager\obj\x86\Debug\Initial D Street Stage Manager.exe
+C:\Documents and Settings\Santiago\mis documentos\visual studio 2010\Projects\Initial D Street Stage Manager\Initial D Street Stage Manager\obj\x86\Debug\Initial D Street Stage Manager.pdb
+C:\Documents and Settings\Santiago\mis documentos\visual studio 2010\Projects\Initial D Street Stage Manager\Initial D Street Stage Manager\bin\Debug\Initial D Street Stage Manager.exe.config
+C:\Documents and Settings\Santiago\mis documentos\visual studio 2010\Projects\Initial D Street Stage Manager\Initial D Street Stage Manager\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Santiago\mis documentos\visual studio 2010\Projects\Initial D Street Stage Manager\Initial D Street Stage Manager\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\Santiago\mis documentos\visual studio 2010\Projects\Initial D Street Stage Manager\Initial D Street Stage Manager\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Santiago\mis documentos\visual studio 2010\Projects\Initial D Street Stage Manager\Initial D Street Stage Manager\bin\Debug\GimSharp.dll
+C:\Documents and Settings\Santiago\mis documentos\visual studio 2010\Projects\Initial D Street Stage Manager\Initial D Street Stage Manager\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
